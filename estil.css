@@ -13,4 +13,13 @@ input {
 label {
     size: 20px;
     font-size: 20px;
-    
+}
+
+.center{
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+    margin-left: 575px;
+}
