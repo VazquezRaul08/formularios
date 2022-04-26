@@ -1,0 +1,16 @@
+html {
+    text-align: center;
+    background-color: moccasin;
+}
+
+input {
+    border-color: black;
+    border-radius: 10px;
+    background-color: khaki;
+
+}
+
+label {
+    size: 20px;
+    font-size: 20px;
+    
